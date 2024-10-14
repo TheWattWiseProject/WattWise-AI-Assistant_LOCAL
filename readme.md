@@ -81,7 +81,7 @@ Data from the resources is compiled into a vector store (initialized in the `doc
 
 ## Contributing
 
-We welcome and appreciate contributions! To learn more or get involved, please visit the [WattWise Website](#) or reach out through social media. Your support and collaboration play a crucial role in fostering sustainability and energy awareness globally.
+We welcome and appreciate contributions! To learn more or get involved, please visit the [WattWise Website](https://thewattwiseproject.github.io/WattWise/index.html) or reach out through social media. Your support and collaboration play a crucial role in fostering sustainability and energy awareness globally.
 
 ## Credits
 
